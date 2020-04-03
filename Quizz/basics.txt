@@ -1,4 +1,4 @@
-# JavaScript Questions : Basics
+# JavaScript Questions : Basics.
 
 # Q1 to create function we use the keyword ?
 
